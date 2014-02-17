@@ -1,6 +1,7 @@
 
 rainboxw-console [![Build Status](https://travis-ci.org/yorkie/node-envm.png)](https://travis-ci.org/yorkie/node-rainbow-console)
 ==================
+colorize your console for NodeJS
 
 ## Installation
 
