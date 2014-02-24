@@ -1,6 +1,6 @@
 {
   "name": "rainbow-console",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "colorize your console for NodeJS",
   "main": "index.js",
   "scripts": {
